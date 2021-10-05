@@ -5,7 +5,10 @@
 <p align="center">
 <img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
 </p>
-
+<p align="left">  <a href="https://in.linkedin.com/in/charliethehacker" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="CharlieTheHack1" height="30" width="40" /></a>
+<a href="https://instagram.com/7.7.7.7_hacker" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="CharlieTheHack1" height="30" width="40" /></a>
+<a href="https://twitter.com/charliethehack1" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="CharlieTheHack1" height="30" width="40" /></a>
+<a href="https://youtube.com/c/CharlieTheHacker" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="CharlieTheHack1" height="30" width="40" /></a></p>
 
 - I'm  **Learner** | **Programmer** 
 - About me :- **Coder Master** | **ML & CyberSec Enthusiast**
