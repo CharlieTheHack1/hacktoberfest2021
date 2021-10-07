@@ -44,6 +44,9 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 1. "It is a fairly open secret that almost all systems can be hacked, somehow. It is a less spoken of secret that such hacking has actually gone quite mainstream." - Dan Kaminsky </br>
 2. "Behind every successful  Coder there an even more successful De-coder to understand that code." - Anonymous
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+
 ### Feel Free to Contact me.....
 
 <p align="center">
