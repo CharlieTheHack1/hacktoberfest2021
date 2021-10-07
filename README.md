@@ -10,6 +10,8 @@
 <a href="https://twitter.com/charliethehack1" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="CharlieTheHack1" height="30" width="40" /></a>
 <a href="https://youtube.com/c/CharlieTheHacker" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="CharlieTheHack1" height="30" width="40" /></a></p>
 
+<br>
+
 - I'm  **Learner** | **Programmer** 
 - About me :- **Coder Master** | **ML & CyberSec Enthusiast**
 - Currently practicing **Deep Learning**
@@ -35,6 +37,14 @@ Thursday     14 commits     █░░░░░░░░░░░░░░░░�
 Friday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.44% 
 Saturday     70 commits     ██████░░░░░░░░░░░░░░░░░░░   23.81% 
 Sunday       91 commits     ███████░░░░░░░░░░░░░░░░░░   30.95%
+
+```
+
+<h2>Some of my favorite quotes: </h2>
+1. "It is a fairly open secret that almost all systems can be hacked, somehow. It is a less spoken of secret that such hacking has actually gone quite mainstream." - Dan Kaminsky </br>
+2. "Behind every successful  Coder there an even more successful De-coder to understand that code." - Anonymous
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
 ### Feel Free to Contact me.....
