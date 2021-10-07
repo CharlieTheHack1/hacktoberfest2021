@@ -38,6 +38,11 @@ Friday       16 commits     █░░░░░░░░░░░░░░░░�
 Saturday     70 commits     ██████░░░░░░░░░░░░░░░░░░░   23.81% 
 Sunday       91 commits     ███████░░░░░░░░░░░░░░░░░░   30.95%
 
+```
+
+<h2>Some of my favorite quotes: </h2>
+1. "It is a fairly open secret that almost all systems can be hacked, somehow. It is a less spoken of secret that such hacking has actually gone quite mainstream." - Dan Kaminsky </br>
+2. "Behind every successful  Coder there an even more successful De-coder to understand that code." - Anonymous
 
 ### Feel Free to Contact me.....
 
